@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LogViewer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Admin\Documents\i-free\Logs</Value>
+    </Setting>
+    <Setting Name="Query" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1bf49501-0000-00ef-4e45-856a030461a4</Value>
+    </Setting>
+    <Setting Name="Date" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2024-12-07</Value>
+    </Setting>
+    <Setting Name="AnyDate" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
